@@ -12,7 +12,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: #444;
-  background-color: #f3f3f3;
+  background-color: #ced7d8;
   height: 100vh;
   padding: 2rem;
 }
@@ -30,7 +30,9 @@ nav {
 }
 
 .logo {
-  height: 5.25rem;
+  margin-top: 0;
+  width: 80px;
+  height: 80px;
 }
 
 .login {
@@ -149,11 +151,11 @@ nav {
 }
 
 .movements__type--deposit {
-  background-image: linear-gradient(to top left, #39b385, #9be15d);
+  background-image: linear-gradient(to top left, #39f3bb, #086130);
 }
 
 .movements__type--withdrawal {
-  background-image: linear-gradient(to top left, #e52a5a, #ff585f);
+  background-image: linear-gradient(to top left, #e9253f, #ec1a8e);
 }
 
 .movements__value {
@@ -208,7 +210,7 @@ nav {
 }
 
 .operation--transfer {
-  background-image: linear-gradient(to top left, #ffb003, #ffcb03);
+  background-image: linear-gradient(to top left, #f1ec9d, #f0c846);
 }
 
 .operation--loan {
