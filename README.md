@@ -1,4 +1,4 @@
-#my-bank-app: T29
+# my-bank-app: T29
 
 This is my bank app that i made to practice my JavaScript skills
 
